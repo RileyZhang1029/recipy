@@ -1,3 +1,8 @@
+# blocklist
+branches:
+  except:
+  - recipy_test
+
 language: python
 
 python:
